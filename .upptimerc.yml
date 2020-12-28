@@ -8,9 +8,9 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
+  - name: Slack
+    url: https://app.slack.com/client/
+  - name: Secrets Manager
     url: $SECRET_SITE
 
 status-website:
