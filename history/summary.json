@@ -42,19 +42,19 @@
     "url": "https://app.slack.com/client/",
     "icon": "https://favicons.githubusercontent.com/app.slack.com",
     "slug": "slack",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 85,
-    "timeWeek": 204,
-    "timeMonth": 221,
-    "timeYear": 283,
+    "time": 282,
+    "timeDay": 83,
+    "timeWeek": 189,
+    "timeMonth": 217,
+    "timeYear": 282,
     "dailyMinutesDown": {
-      "2021-12-15": 0
+      "2021-12-15": 16
     }
   },
   {
