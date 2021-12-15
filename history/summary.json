@@ -42,9 +42,9 @@
     "url": "https://app.slack.com/client/",
     "icon": "https://favicons.githubusercontent.com/app.slack.com",
     "slug": "slack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 204,
     "timeMonth": 221,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "Secrets Manager",
@@ -61,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secrets-manager",
     "status": "up",
-    "uptime": "68.54%",
+    "uptime": "68.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "68.54%",
+    "uptimeYear": "68.60%",
     "time": 544,
     "timeDay": 429,
     "timeWeek": 484,
