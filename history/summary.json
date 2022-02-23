@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 55,
-    "timeWeek": 156,
-    "timeMonth": 108,
+    "timeDay": 372,
+    "timeWeek": 157,
+    "timeMonth": 118,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2021-12-02": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 168,
+    "timeDay": 102,
     "timeWeek": 156,
-    "timeMonth": 195,
+    "timeMonth": 191,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 50,
-    "timeWeek": 246,
-    "timeMonth": 241,
+    "timeDay": 312,
+    "timeWeek": 243,
+    "timeMonth": 249,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2021-12-15": 16
@@ -63,15 +63,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secrets-manager",
     "status": "up",
-    "uptime": "73.61%",
+    "uptime": "73.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "80.86%",
-    "time": 530,
-    "timeDay": 316,
-    "timeWeek": 401,
-    "timeMonth": 425,
+    "uptimeYear": "81.14%",
+    "time": 529,
+    "timeDay": 209,
+    "timeWeek": 391,
+    "timeMonth": 427,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2022-02-02": 305,
@@ -166,8 +166,7 @@
       "2021-02-27": 1440,
       "2021-02-26": 1440,
       "2021-02-25": 1440,
-      "2021-02-24": 1440,
-      "2021-02-23": 1440
+      "2021-02-24": 1440
     }
   }
 ]
