@@ -24,11 +24,11 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
     "timeDay": 173,
@@ -36,7 +36,7 @@
     "timeMonth": 184,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-03-01": 7
+      "2022-03-01": 0
     }
   },
   {
@@ -66,9 +66,9 @@
     "slug": "secrets-manager",
     "status": "down",
     "uptime": "73.94%",
-    "uptimeDay": "32.01%",
-    "uptimeWeek": "90.29%",
-    "uptimeMonth": "97.07%",
+    "uptimeDay": "31.45%",
+    "uptimeWeek": "90.21%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "82.85%",
     "time": 528,
     "timeDay": 279,
@@ -76,7 +76,7 @@
     "timeMonth": 421,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-03-01": 979,
+      "2022-03-01": 987,
       "2022-02-02": 305,
       "2022-01-02": 284,
       "2021-12-12": 32,
