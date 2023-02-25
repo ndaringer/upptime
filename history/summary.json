@@ -14,7 +14,7 @@
     "timeDay": 367,
     "timeWeek": 188,
     "timeMonth": 113,
-    "timeYear": 108,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2022-04-13": 24
     }
@@ -62,9 +62,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secrets-manager",
-    "status": "up",
-    "uptime": "85.31%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "85.33%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "98.68%",
@@ -74,6 +74,7 @@
     "timeMonth": 378,
     "timeYear": 440,
     "dailyMinutesDown": {
+      "2023-02-25": 0,
       "2023-02-11": 20,
       "2023-02-03": 15,
       "2023-02-02": 187,
