@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 71,
-    "timeWeek": 120,
-    "timeMonth": 112,
+    "timeDay": 88,
+    "timeWeek": 103,
+    "timeMonth": 103,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-05-01": 39,
-      "2023-07-24": 17
+      "2024-05-01": 39
     }
   },
   {
@@ -26,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "81.83%",
+    "uptime": "81.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.57%",
-    "time": 205,
-    "timeDay": 216,
-    "timeWeek": 159,
+    "uptimeYear": "55.84%",
+    "time": 204,
+    "timeDay": 40,
+    "timeWeek": 136,
     "timeMonth": 182,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -196,8 +195,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   },
   {
@@ -211,9 +209,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 97,
-    "timeWeek": 243,
+    "time": 195,
+    "timeDay": 303,
+    "timeWeek": 206,
     "timeMonth": 217,
     "timeYear": 195,
     "dailyMinutesDown": {}
@@ -224,18 +222,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secrets-manager",
     "status": "down",
-    "uptime": "79.07%",
+    "uptime": "79.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.15%",
-    "time": 261,
-    "timeDay": 218,
-    "timeWeek": 213,
+    "uptimeYear": "58.87%",
+    "time": 260,
+    "timeDay": 52,
+    "timeWeek": 194,
     "timeMonth": 209,
-    "timeYear": 242,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-07-22": 54,
+      "2024-07-23": 52,
+      "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
