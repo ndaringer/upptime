@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 89,
-    "timeWeek": 99,
+    "timeWeek": 98,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "84.97%",
+    "uptime": "84.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 83,
-    "timeWeek": 164,
-    "timeMonth": 197,
+    "timeDay": 106,
+    "timeWeek": 157,
+    "timeMonth": 193,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 119,
-    "timeWeek": 218,
-    "timeMonth": 237,
-    "timeYear": 204,
+    "timeDay": 122,
+    "timeWeek": 205,
+    "timeMonth": 232,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -61,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secrets-manager",
     "status": "up",
-    "uptime": "80.16%",
+    "uptime": "80.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.00%",
+    "uptimeYear": "70.27%",
     "time": 261,
-    "timeDay": 286,
-    "timeWeek": 356,
-    "timeMonth": 333,
+    "timeDay": 310,
+    "timeWeek": 348,
+    "timeMonth": 332,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-02-09": 152,
@@ -185,8 +185,7 @@
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
-      "2024-05-21": 1440,
-      "2024-05-20": 1440
+      "2024-05-21": 1440
     }
   }
 ]
