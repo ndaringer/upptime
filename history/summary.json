@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 57,
-    "timeWeek": 85,
-    "timeMonth": 81,
+    "timeWeek": 86,
+    "timeMonth": 82,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 180,
     "timeDay": 39,
-    "timeWeek": 136,
-    "timeMonth": 134,
+    "timeWeek": 145,
+    "timeMonth": 137,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -48,8 +48,8 @@
     "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 94,
-    "timeWeek": 226,
-    "timeMonth": 302,
+    "timeWeek": 234,
+    "timeMonth": 300,
     "timeYear": 255,
     "dailyMinutesDown": {}
   },
@@ -60,14 +60,14 @@
     "slug": "secrets-manager",
     "status": "down",
     "uptime": "83.81%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "98.09%",
     "time": 350,
     "timeDay": 32,
-    "timeWeek": 203,
-    "timeMonth": 254,
+    "timeWeek": 207,
+    "timeMonth": 250,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-07-19": 1404,
@@ -77,7 +77,7 @@
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 38,
-      "2026-07-16": 0
+      "2026-07-16": 121
     }
   }
 ]
